@@ -1,4 +1,4 @@
-# SEAL: Selective Alignment for SNNs
+# SeAl: Selective Alignment for SNNs
 
 ---
 
