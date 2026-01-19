@@ -1,4 +1,4 @@
-# SeAl: Selective Alignment for SNNs
+# SeAl: Selective Alignment Knowledge Distillation for Spiking Neural Networks
 
 ---
 
